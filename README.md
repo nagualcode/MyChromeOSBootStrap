@@ -7,7 +7,7 @@ open crosh terminal (inside browser press: ctrl + alt + t)
 
 $ shell
 
-bash ./install.sh
+$ bash ./install.sh
 
 ## LaunchBar Icons
 
