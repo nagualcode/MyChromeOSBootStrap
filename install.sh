@@ -1,8 +1,11 @@
 #!/usr/bin/env bash
 
+echo
+echo "*************************************************************"
 echo "This script explains and ask to proceed before each action."
 echo "I made this running Cloudready, so if your are running from another ChromiumOS, some steps may need your manual tweak."
-
+echo "*************************************************************"
+echo
 
 
 echo "[1] - Turn Off Chrome System Protection"
