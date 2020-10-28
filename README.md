@@ -1,5 +1,7 @@
 # MyChromeOSBootStrap
-ChromeOS can be a great dev machine. And this is my initial bootstrap to start developing: Install chromebrew package manager, install my fave tools...
+ChromeOS can be a great dev machine. And this is my initial bootstrap to start developing in it. 
+
+Install chromebrew package manager, VSCode Server, Rclone and some other essential tools.
 
 ## Instructions:
 
