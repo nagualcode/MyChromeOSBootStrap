@@ -41,7 +41,7 @@ echo ''
 if [[ $REPLY =~ ^[Yy]$ ]]
 then
 curl -fsSL https://code-server.dev/install.sh | sh
-nano ~/.config/code-server/config.yaml
+#nano ~/.config/code-server/config.yaml
 fi 
 
 echo "[4] - Install Rclone"
@@ -52,3 +52,4 @@ then
 curl https://rclone.org/install.sh | sudo bash
 fi 
 
+echo 'sudo mount -i -o remount,exec /home/chronos/user/' >> ~/.bashrc
