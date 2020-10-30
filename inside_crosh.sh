@@ -1,5 +1,9 @@
 #!/usr/bin/env bash
 
+#OPEN CROSH SHELL WITH CTRL+ALT+T
+#$ SHELL
+
+
 echo
 echo "*************************************************************"
 echo "This script explains and ask to proceed before each action."
