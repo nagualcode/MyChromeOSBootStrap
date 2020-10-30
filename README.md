@@ -13,7 +13,7 @@ $ bash ./inside_crosh.sh
 
 Create a new linux container in settings LINUX (BETA):
 
-bash ./inside_linux.sh
+$ bash ./inside_linux.sh
 
 ## LaunchBar Icons
 
